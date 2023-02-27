@@ -1,5 +1,7 @@
 # EngSoftware
-oi
-long int name = "Pedro galanteador";
-string 
-## Nome 
+## Integrantes:
+Nome:
+Nome:
+Nome:
+Nome:
+Nome: Pedro Ramal de Carvalho  RA: 00304822027
