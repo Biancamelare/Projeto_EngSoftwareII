@@ -1,4 +1,4 @@
-<h1>Projeto Engenharia de Software </h1>
+<h1 align="center">Projeto Engenharia de Software </h1>
 ## Integrantes:
 Nome:  <br/>
 Nome: <br/>
