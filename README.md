@@ -9,7 +9,10 @@
 <tr> <td> <a href= "https://github.com/PedroRamal"> Pedro Ramal de Carvalho </td> <td>   <strong> 0030482211027 </strong> </td></tr>
 </table>
 
-| Syntax | Description |
+| Nome | RA |
 | ----------- | ----------- |
-| Header | Title |
+| Bianca | 0030482211003  |
 | Paragraph | Text |
+| Header | Title |
+| Header | Title |
+| Header | Title |
