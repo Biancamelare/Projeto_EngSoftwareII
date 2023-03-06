@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Engenharia de Software 💻 </h1>
+<h1 align="center"> Aplicativo Remember💻 </h1>
 <h2> Resumo 📖</h2>
 <p>
 Você já se esqueceu de algum compromisso? Já voltou para casa sem comprar o remédio que precisava ou abastecer o carro? Quantas vezes se esqueceu de coisas importantes para fazer? 
