@@ -22,6 +22,26 @@ As funcionalidades serão:
 <p>
 Profissionais com uma agenda cheia de compromissos, estudantes que precisam gerenciar suas atividades acadêmicas, mães e pais que cuidam da rotina de suas famílias, pessoas que têm hobbies ou praticam esportes e precisam se lembrar de suas atividades são alguns dos exemplos de pessoas que podem ser público-alvo desse aplicativo.
 </p>
+<h2> Tecnologias e Ferramentas ⚙️</h2>
+<p>
+<h4> Tecnologias </h4>
+<ul>
+<li> Node.js </li>
+<li> Express.js </li>
+<li> Expo </li>
+<li> React Native </li>
+<li> Firebase </li>
+</ul>
+<p>
+<p>
+<h4> Ferramentas </h4>
+<ul>
+<li> Visual Studio Code </li>
+<li> Selenium </li>
+<li> Figma </li>
+<li> Git e GitHub </li>
+</ul>
+<p>
 <h2> Integrantes 🎓 </h2>
 <table>
 <tr > <th >  Nome  </td> <th> RA </th> </tr>
