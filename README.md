@@ -46,8 +46,11 @@ Profissionais com uma agenda cheia de compromissos, estudantes que precisam gere
 <p>Clique abaixo e acesse o protótipo desenvolvido no Figma.</p>
 <a href= "https://www.figma.com/file/MDM4mKPGdClM9ZFQE6z4sJ/Fatec-Remember?node-id=0-1&t=0gE3TkBEHU6idmn5-0">Link do Protótipo </a> 
 <h2> Diagrama de casos de uso 📈 </h2>
-<p>Clique abaixo e acesse o o diagrama de casos de uso.</p>
+<p>Clique abaixo e acesse o diagrama de casos de uso.</p>
 <a href= "https://lucid.app/documents/view/c433a391-b5dd-4343-9cfa-b8ee8551acce">Link do diagrama </a> 
+<h2> Modelo de negócio 💰 </h2>
+<p>Clique abaixo e acesse o documento do modelo de negócio.</p>
+<a href= "https://docs.google.com/document/d/1P3Xz_AeCgPPZOk5PxshkMVnuVq0x_ir3l-cgskQAT4k/edit?usp=sharing">Link do modelo de negócio </a> 
 <h2> Integrantes 🎓 </h2>
 <table>
 <tr > <th >  Nome  </td> <th> RA </th> </tr>
