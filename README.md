@@ -42,6 +42,12 @@ Profissionais com uma agenda cheia de compromissos, estudantes que precisam gere
 <li> Git e GitHub </li>
 </ul>
 <p>
+<h2> Protótipo📱</h2>
+<p>Clique abaixo e acesse o protótipo desenvolvido no Figma.</p>
+<a href= "https://www.figma.com/file/MDM4mKPGdClM9ZFQE6z4sJ/Fatec-Remember?node-id=0-1&t=0gE3TkBEHU6idmn5-0">Link do Protótipo </a> 
+<h2> Diagrama de casos de uso 📈 </h2>
+<p>Clique abaixo e acesse o o diagrama de casos de uso.</p>
+<a href= "https://lucid.app/documents/view/c433a391-b5dd-4343-9cfa-b8ee8551acce">Link do diagrama </a> 
 <h2> Integrantes 🎓 </h2>
 <table>
 <tr > <th >  Nome  </td> <th> RA </th> </tr>
