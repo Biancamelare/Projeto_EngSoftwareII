@@ -18,10 +18,9 @@ As funcionalidades serão:
 <li>	Gamificação: permite que os usuários tenham seus avatares e ganhem pontos, conforme completem suas tarefas e compromissos diários, incentivando-os a realizá-las.</li>
 </ul>
 <h2> Público-alvo 🎯</h2>
-<p> O público-alvo consiste em pessoas que têm uma rotina agitada e precisam organizar seus compromissos e tarefas.</p> 
-<p>
-Profissionais com uma agenda cheia de compromissos, estudantes que precisam gerenciar suas atividades acadêmicas, mães e pais que cuidam da rotina de suas famílias, pessoas que têm hobbies ou praticam esportes e precisam se lembrar de suas atividades são alguns dos exemplos de pessoas que podem ser público-alvo desse aplicativo.
-</p>
+<p> 
+O público-alvo consiste em pessoas que têm uma rotina agitada e precisam organizar seus compromissos, tarefas e rotina. O aplicativo é voltado para pessoas com idade a partir de 12 anos, tendo foco mães e pais que cuidam da rotina de suas famílias, estudantes que precisam gerenciar seus afazeres e profissionais com uma agenda cheia de compromissos.
+</p> 
 <h2> Tecnologias e Ferramentas ⚙️</h2>
 <p>
 <h4> Tecnologias </h4>
