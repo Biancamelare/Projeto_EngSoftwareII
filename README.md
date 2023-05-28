@@ -53,6 +53,9 @@ O público-alvo consiste em pessoas que têm uma rotina agitada e precisam organ
 <h2> Jornada do usuário 🚀 </h2>
 <p>Clique abaixo e acesse a jornada do usuário.</p>
 <a href= "https://www.figma.com/file/MDM4mKPGdClM9ZFQE6z4sJ/Fatec-Remember?type=design&node-id=717%3A3717&t=qZLEI33bMBg2s2ON-1">Link da jornada do usuário </a> 
+<h2> Modelo Conceitual </h2>
+<p> Clique abaixo e acesse o modelo conceitual.</p>
+<a href= "https://lucid.app/lucidchart/8c70f1c7-52d3-49ad-a8fb-328af907a2c6/edit?beaconFlowId=FD30AAF67F9C3130&invitationId=inv_6fae475e-e582-4440-8bb0-45d29de4cb1e&page=HWEp-vi-RSFO#">Link do modelo conceitual </a>
 <h2> Integrantes 🎓 </h2>
 <table>
 <tr > <th >  Nome  </td> <th> RA </th> </tr>
